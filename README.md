@@ -1,5 +1,7 @@
 # School_District_Analysis
 We are given school data and student data reports by the school board to analyze. Our job is to come up with a conclusion as to how the school board  should priorities their budget regarding school performance. 
+
+Link to the challenge <https://github.com/jmvaldi/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb>
 <br />
 ## Overview of the Analysis
 The school board happpened to discover that there was academic dishonesty with regards to the reading and math grades for the ninth graders of Thomas High School. We were tasked with replacing the math and reading scores for Thomas High school with NaNs while at the same time as keeping the rest of the data in the dataset intact.
